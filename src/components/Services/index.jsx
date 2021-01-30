@@ -26,7 +26,7 @@ const Services = () => {
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={Icon2} />
-          <ServicesH2>Vertual Offeces</ServicesH2>
+          <ServicesH2>Virtual Offices</ServicesH2>
           <ServicesP>
             You can access our platform online anywhere in the world
           </ServicesP>
